@@ -52,7 +52,7 @@
     ]
   },
   "dependencies": {
-    "@emotion/react": "^11.8.2",
+    "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.8.1",
     "@headlessui/react": "^1.7.4",
     "@mui/material": "^5.5.3",
