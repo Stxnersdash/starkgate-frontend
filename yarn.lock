@@ -2896,10 +2896,10 @@
   resolved "https://registry.yarnpkg.com/@splitbee/web/-/web-0.3.0.tgz#676ebe877b6d82a10ece6527a07f70b1994d242e"
   integrity sha512-jNPDKg0GQGa4jCaBc6JQsv0NHmBA80WCwZE49nFyhcbo32WF0GyqXeice7ZApy7OUHI16bAUAzm4MOQw3gvxfQ==
 
-"@starkware-industries/commons-js-enums@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-enums/-/commons-js-enums-1.1.0.tgz#f661378a75132e8fe514684252fe38603206d035"
-  integrity sha512-vb9RMhl3cPXBVzJNLdgCsHaxWQ1DM9Y/jMNYmnZcsIGNVZTPLHIGvfydfvH2UTbcx3sdczyvDrwrIYewuYLz1g==
+"@starkware-industries/commons-js-enums@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-enums/-/commons-js-enums-1.2.0.tgz#bac67c5c381fcd80e9923a17d45a416dc59a7977"
+  integrity sha512-/LOa2unbitvjpcWy+sU9RPdeMkQsOMUep5Har0kTL2NYxUUdRizXK5EkccGg0EczOyrAQNjK0v3iO404nybc2Q==
 
 "@starkware-industries/commons-js-hooks@1.0.0":
   version "1.0.0"

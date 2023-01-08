@@ -58,7 +58,7 @@
     "@mui/material": "^5.5.3",
     "@mui/styles": "^5.10.16",
     "@splitbee/web": "^0.3.0",
-    "@starkware-industries/commons-js-enums": "1.1.0",
+    "@starkware-industries/commons-js-enums": "1.2.0",
     "@starkware-industries/commons-js-hooks": "1.0.0",
     "@starkware-industries/commons-js-libs": "1.2.1",
     "@starkware-industries/commons-js-utils": "1.1.0",
