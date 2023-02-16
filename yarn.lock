@@ -2918,10 +2918,10 @@
     web3-eth-contract "^1.7.5"
     web3-utils "^1.7.5"
 
-"@starkware-industries/commons-js-utils@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-utils/-/commons-js-utils-1.2.0.tgz#04fbcec7b45edc014762d599c7d13a834a2b34d7"
-  integrity sha512-wrG4wobvrq+mp9G9uEE0x8U+212OrW4LQJg3I2d786aF/l7SDMFoSh9AGkYGKIuI9b5tQieOxWm5u3lyYDZRNQ==
+"@starkware-industries/commons-js-utils@1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-utils/-/commons-js-utils-1.2.1.tgz#aff23e777fb70d237ad64224da8a8432bd9f7403"
+  integrity sha512-WOOPCccneAb9KSraKNNOAo+Hj2FcvFKAGU9XqrrXfIXWUpR4t6Q65zo7r09PDr9rvO1r7W4y8LJoG6mvFTX53Q==
   dependencies:
     "@normalizex/ethjs-unit" "^0.1.8"
     "@types/uuid" "^8.3.4"
