@@ -61,7 +61,7 @@
     "@starkware-industries/commons-js-enums": "1.2.0",
     "@starkware-industries/commons-js-hooks": "1.0.0",
     "@starkware-industries/commons-js-libs": "1.2.1",
-    "@starkware-industries/commons-js-utils": "1.2.1",
+    "@starkware-industries/commons-js-utils": "1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
